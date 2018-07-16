@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-project-id",
+  "private_key_id": "asdfaflksdflkadjflkadjflkadjflkjadlfkjlsadkjflasdkjf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nal;sdfjl;asdjfajgoijadfgjafkjgkaldjgajdfgijoeirjtierajdf90er8fga=dfg0a=r-0tgf=adf-kg[paf=goa-9dfog\n-----END PRIVATE KEY-----\n",
+  "client_email": "rsravanam@gcp-project-id.iam.gserviceaccount.com",
+  "client_id": "1233213213213213321321",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rsravanam%40gcp-project-id.iam.gserviceaccount.com"
+}
